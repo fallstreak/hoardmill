@@ -1,14 +1,14 @@
 # hoardmill
 
-A Clojure library designed to ... well, that part is up to you.
+Hoard your data until that alert goes off again.
 
 ## Usage
 
-FIXME
+We'll figure that out...
 
 ## License
 
-Copyright © 2013 FIXME
+Copyright © 2013 fallstreak
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
