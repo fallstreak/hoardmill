@@ -1,10 +1,17 @@
 # hoardmill
 
-Hoard your data until that alert goes off again.
+Hoard your data in the hoardmill
 
 ## Usage
 
-We'll figure that out...
+Really basic functionality at the moment...
+
+```
+lein uberjar
+java -jar target/hoardmill.jar
+```
+
+... and have a play.
 
 ## License
 
