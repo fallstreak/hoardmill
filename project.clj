@@ -1,6 +1,6 @@
 (defproject hoardmill "0.1.0-SNAPSHOT"
 
-  :description "Hoard your data until that alert goes off again."
+  :description "Hoard your data in the hoardmill."
 
   :url "https://github.com/fallstreak/hoardmill"
 
