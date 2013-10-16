@@ -7,7 +7,9 @@
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
 
-  :dependencies [[compojure "1.1.5"]
+  :dependencies [[clj-time "0.6.0"]
+                 [compojure "1.1.5"]
+                 [dire "0.4.4"]
                  [org.clojure/clojure "1.5.1"]
                  [ring/ring-jetty-adapter "1.2.0"]]
 
